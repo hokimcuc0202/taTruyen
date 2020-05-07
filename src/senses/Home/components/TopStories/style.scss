@@ -1,0 +1,14 @@
+.top-stories{
+    &-title {
+        display: inline-block;
+    }
+    &-toogle-all {
+        background-color: none;
+        cursor: pointer;
+    }
+    &-card{
+        img {
+            width: 175px;
+        }
+    }
+}
